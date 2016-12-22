@@ -1,0 +1,14 @@
+{
+    "name": "tzhongyuan/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "洪袁",
+            "email": "347889743@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
